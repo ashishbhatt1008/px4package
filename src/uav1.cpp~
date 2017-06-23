@@ -6,6 +6,7 @@
 #include <math.h>
 #include <graphics.h>
 #include <stdio.h>
+#include <conio.h>
 #include <geometry_msgs/PoseStamped.h>
 #include <geometry_msgs/TwistStamped.h>
 #include <mavros_msgs/SetMode.h>
