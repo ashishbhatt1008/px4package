@@ -3,6 +3,7 @@
  * @Lissajous Implementation of Assem's paper UAV#1
  */
 #include <ros/ros.h>
+#include <math.h>
 #include <geometry_msgs/PoseStamped.h>
 #include <geometry_msgs/TwistStamped.h>
 #include <mavros_msgs/SetMode.h>
